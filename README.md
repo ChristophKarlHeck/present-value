@@ -9,4 +9,4 @@ How to execute the script:
 `-da` --> days per period \
 `-i` --> Interest that will paid by the debtor each period in percentage \
 `d` --> Denomination of the bond in euro\
-`nbr` --> Number of days until the end of the current period\
+`nbr` --> Number of days until the end of the current period
